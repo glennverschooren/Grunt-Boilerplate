@@ -1,4 +1,4 @@
-Lily User Interface
+Grunt front-end boilerplat
 ===================
 
 Repository for frontend development with RequireJS, including Javascript, RespondJS, HTML, 
@@ -43,17 +43,4 @@ Common tasks
 
 * Drag project folder in terminal and use
 * 'grunt server' to start a web server that automatically compiles on the fly (runs on port 9000)
-* 'grunt build' to build a production-ready application in the deploy/ directory
-
-
-Contact
--------
-
-Created at Little Miss Robot    
-Molenaarsstraat 111 B3, 9000 Gent    
-T: +32 9 233 31 03    
-E: info@littlemissrobot.com    
-    
-Front-end setup by Gwen Vanhee    
-T: +32 477 40 34 59    
-E: gwen@littlemissrobot.com    
+* 'grunt build' to build a production-ready application in the deploy/ folder   
