@@ -2,11 +2,11 @@
 	"name": "Grunt-Boilerplate",
 	"version": "0.0.0",
 	"description": "Frontend boilerplate for Grunt with RequireJS, Sass & Compass",
-	"author": "Gwen Vanhee",
+	"author": "Verschooren Glenn",
 
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/gwenvanhee/grunt-boilerplate"
+		"url": "git@github.com:glennverschooren/Grunt-Boilerplate.git"
 	},
 
 	"devDependencies": {
